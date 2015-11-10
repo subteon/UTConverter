@@ -1,0 +1,21 @@
+UTConverter/bin/*
+UTConverter/obj/*
+
+# windows only
+Thumbs.db
+
+# mac only
+.DS_Store
+_MACOSX/*
+
+# Eclipse
+/.cache
+.project
+/.settings
+.buildpath
+
+# Netbeans
+nbproject/*
+
+# *storm
+.idea/*
